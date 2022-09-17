@@ -8,7 +8,7 @@
 -  Developed first with the Mobile First methodology, then for desktop 💻.
 -  Compatible with all mobile devices and with a beautiful and pleasant user interface 😀.
 <br><br>
--  Deployment Link <a href="https://jishanpatel78.netlify.app/">Click Here 🌍. </a>
+-  Deployment Link <a href="https://gholve-vishal.netlify.app/"/">Click Here 🌍. </a>
 <br><br>
 <div align-items="center" border-radius="20px">
 <img src= "./assets/img/screenshot1.png">
